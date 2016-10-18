@@ -1,0 +1,15 @@
+return
+printf
+teste
+endteste
+typedef
+printf
+erturn
+etrurn
+char
+if
+else
+struct
+string
+void
+int
